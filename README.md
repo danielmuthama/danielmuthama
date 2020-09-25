@@ -1,5 +1,5 @@
    ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)
-   [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
+   [<img align="center" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
 [<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://img.icons8.com/doodle/2x/youtube.png" />][youtube]
 [<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
 [<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
