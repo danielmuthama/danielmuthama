@@ -13,12 +13,12 @@ Here is my progress:
 - 👯 I’m looking to collaborate on ...Node js with no frameworks nor dependencies
 - 🤔 I’m looking for help with ...python django
 - 💬 Ask me about ...react and javascript
-- 📫 How to reach me: ...  [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
+- 📫 How to reach me: ...<span>  [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
 [<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://img.icons8.com/doodle/2x/youtube.png" />][youtube]
 [<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
 [<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
 [<img align="left" alt="Daniel Muthama discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
-[<img align="left" alt="Daniel Muthama linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="Daniel Muthama linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
 <br/>
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
