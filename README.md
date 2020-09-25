@@ -8,11 +8,11 @@ python, node.js and GraphQL. I am also looking for professionals
 whom I can learn, discuss and collaborate with in my upcoming projects.
 Here is my progress:
 
-- 🔭 I’m currently working on: ...a website
+- 🔭 I’m currently working on: ...A website
 - 🌱 I’m currently learning: ...R language
 - 👯 I’m looking to collaborate on: ...Node js projects with no frameworks nor dependencies
-- 🤔 I’m looking for help with: ...python django
-- 💬 Ask me about: ...react and javascript
+- 🤔 I’m looking for help with: ...Python Django
+- 💬 Ask me about: ...react and JavaScript
 > How to reach me: ...<span> 
   
 [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
