@@ -1,5 +1,5 @@
    ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)
-   [<img align="center" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
+[<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
 [<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://img.icons8.com/doodle/2x/youtube.png" />][youtube]
 [<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
 [<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
@@ -58,8 +58,8 @@ Here is my progress:
 ---
 
 [gmail]: mailto:danielmuthama23@gmail.com
-[github]: https://github.com/danielmuthama
+[facebook]: https://www.facebook.com/dasomtechnologiesinc
 [discord]: https://discord.gg/jNTPtz
 [website]: https://dasomtechnologiesinc.com
-[youtube]: https://https://www.youtube.com/channel/UCey7Rht0HRNAbpm7AoWdi7Q?view_as=subscriber
+[youtube]: https://www.youtube.com/channel/UCey7Rht0HRNAbpm7AoWdi7Q?view_as=subscriber
 [twitter]: https://twitter.com/MichaelRaduu
