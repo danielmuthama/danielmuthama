@@ -21,6 +21,7 @@ Here is my progress:
 [<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
 [<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
 [<img align="left" alt="Daniel Muthama discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
+[<img align="left" alt="Daniel Muthama linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]
 <br/>
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -64,4 +65,5 @@ Here is my progress:
 [discord]: https://discord.gg/jNTPtz
 [website]: https://dasomtechnologiesinc.com
 [youtube]: https://www.youtube.com/channel/UCey7Rht0HRNAbpm7AoWdi7Q?view_as=subscriber
-[twitter]: https://twitter.com/MichaelRaduu
+[twitter]: https://twitter.com/danielmuthama18
+[linkedin]: https://www.linkedin.com/in/daniel-muthama-577b211a5/
