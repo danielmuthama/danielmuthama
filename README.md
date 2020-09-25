@@ -9,8 +9,8 @@ whom I can learn, discuss and collaborate with in my upcoming projects.
 Here is my progress:
 
 - 🔭 I’m currently working on ...a website
-- 🌱 I’m currently learning ...R
-- 👯 I’m looking to collaborate on ...Node js with no frameworks nor dependencies
+- 🌱 I’m currently learning ...R language
+- 👯 I’m looking to collaborate on ...Node js projects without using frameworks nor dependencies
 - 🤔 I’m looking for help with ...python django
 - 💬 Ask me about ...react and javascript
 > How to reach me: ...<span> 
