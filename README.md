@@ -1,4 +1,9 @@
    ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)
+   [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
+[<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://img.icons8.com/doodle/2x/youtube.png" />][youtube]
+[<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
+[<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
+[<img align="left" alt="Daniel Muthama discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
 Hello Buddies 😃👋🏻,
 My Name is Daniel Muthama, I’m a Full time Full Stack Developer
 and I have been in IT Profession for over 4+ Years. Most of my
@@ -50,11 +55,7 @@ Here is my progress:
 <br />
 <br />
 ---
-[<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
-[<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://yt3.ggpht.com/a-/AOh14Gj8CGj40IErlfDigr-GmG5hGLgKP0maZFtiKaT7=s100-c-k-c0xffffffff-no-rj-mo" />][youtube]
-[<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
-<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />[gmail]
-[<img align="left" alt="Daniel Muthama discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
+
 [gmail]: mailto:danielmuthama23@gmail.com
 [github]: https://github.com/danielmuthama
 [discord]: https://discord.gg/jNTPtz
