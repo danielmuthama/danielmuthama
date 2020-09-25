@@ -13,7 +13,8 @@ Here is my progress:
 - 👯 I’m looking to collaborate on ...Node js with no frameworks nor dependencies
 - 🤔 I’m looking for help with ...python django
 - 💬 Ask me about ...react and javascript
-> How to reach me: ...<span>  
+> How to reach me: ...<span> 
+  
 [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
 [<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://img.icons8.com/doodle/2x/youtube.png" />][youtube]
 [<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
