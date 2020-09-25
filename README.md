@@ -36,7 +36,7 @@ Here is my progress:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
@@ -50,7 +50,11 @@ Here is my progress:
 <br />
 <br />
 ---
-
+[<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
+[<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://img.icons8.com/doodle/2x/youtube.png" />][youtube]
+[<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
+[<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
+[<img align="left" alt="Daniel Muthama discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
 [gmail]: mailto:danielmuthama23@gmail.com
 [github]: https://github.com/danielmuthama
 [discord]: https://discord.gg/jNTPtz
