@@ -58,4 +58,29 @@ Here is my progress:
 <br />
 
 ---
+[<img align="left" alt="Daniel Muthama Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />][gmail]
+[<img align="left" alt="Daniel Muthama discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/itch-dot-io.svg" />][discord]
+<br />
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="Michael's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MichaelRadu&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Github Top Languages</summary>
+  
+  <img align="left" alt="Michael's Top used languages on Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRadu&layout=compact"/>
+
+</details>
+
+[gmail]: mailto:danielmuthama23@gmail.com
+[github]: https://github.com/danielmuthama
+[discord]: https://discord.gg/jNTPtz
+[website]: https://dasomtechnologiesinc.com
+[youtube]: https://https://www.youtube.com/channel/UCey7Rht0HRNAbpm7AoWdi7Q?view_as=subscriber
+[twitter]: https://twitter.com/MichaelRaduu
