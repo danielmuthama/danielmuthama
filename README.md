@@ -1,4 +1,4 @@
-
+> Let's share new ideas
 ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)
 Hello Buddies 😃👋🏻,
 My Name is Daniel Muthama, I’m a Full time Full Stack Developer
@@ -15,7 +15,7 @@ Here is my progress:
 - 💬 Ask me about ...react and javascript
 - 📫 How to reach me: ... danielmuthama23@gmail.com
      or https://discord.gg/jNTPtz or https://www.linkedin.com/in/daniel-muthama-577b211a5/
- Languages and Tools:
+ ###Languages and Tools:
  [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
 [<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://img.icons8.com/doodle/2x/youtube.png" />][youtube]
 [<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
