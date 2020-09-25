@@ -21,7 +21,7 @@ Here is my progress:
 - 💬 Ask me about ...react and javascript
 - 📫 How to reach me: ... danielmuthama23@gmail.com
      or https://discord.gg/jNTPtz or https://www.linkedin.com/in/daniel-muthama-577b211a5/
-     ### Languages and Tools:
+ Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
