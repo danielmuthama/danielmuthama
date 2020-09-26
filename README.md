@@ -13,16 +13,17 @@ Here is my progress:
 - 👯 I’m looking to collaborate on: ...Node js projects with no frameworks nor dependencies
 - 🤔 I’m looking for help with: ...Python Django
 - 💬 Ask me about: ...react and JavaScript
-<details align="left">
+<details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
+  <img align="left" alt="Michael's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MichaelRadu&show_icons=true&hide_border=true" />
 
 </details>
-<details align="right">
+
+<details>
   <summary>:zap: Github Top Languages</summary>
   
-  <img align="left" color="black" alt="Michael's Top used languages on Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRadu&layout=compact"/>
+  <img align="left" alt="Michael's Top used languages on Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRadu&layout=compact"/>
 
 </details>
 <br />
