@@ -13,7 +13,7 @@ Here is my progress:
 - 👯 I’m looking to collaborate on: ...Node js projects with no frameworks nor dependencies
 - 🤔 I’m looking for help with: ...Python Django
 - 💬 Ask me about: ...react and JavaScript
-<details>
+<details align="left">
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
