@@ -16,7 +16,7 @@ Here is my progress:
 
 
   <img align="left" alt="Muthama's Github Stats" width="400px" src="https://github-readme-stats.codestackr.vercel.app/api?username=MichaelRadu&show_icons=true&hide_border=true" />
- <img align="right" alt="Muthama's Top used languages on Github" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRadu&layout=compact"/>
+ <img align="" alt="Muthama's Top used languages on Github" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRadu&layout=compact"/>
 
 <br />
 > How to reach me: ...<span> 
