@@ -19,7 +19,7 @@ Here is my progress:
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
 
 </details>
-<details>
+<details align="left">
   <summary>:zap: Github Top Languages</summary>
   
   <img align="left" alt="Michael's Top used languages on Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRadu&layout=compact"/>
