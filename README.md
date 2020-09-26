@@ -13,11 +13,7 @@ Here is my progress:
 - 👯 I’m looking to collaborate on: ...Node js projects with no frameworks nor dependencies
 - 🤔 I’m looking for help with: ...Python Django
 - 💬 Ask me about: ...react and JavaScript
-> My GitHub Stats
-  <details><summary>:zap: My Yearly Contribution && Languages Stats</summary>
-<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
- <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
- <br/>
+
 > How to reach me:
 
 [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
