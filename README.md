@@ -1,4 +1,4 @@
-> Let's share new ideas
+> Let's share new ideas:
 ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)
 Hello Buddies 😃👋🏻,
 My Name is Daniel Muthama, I’m a Full time Full Stack Developer
@@ -14,7 +14,7 @@ Here is my progress:
 - 🤔 I’m looking for help with: ...Python Django
 - 💬 Ask me about: ...react and JavaScript
 
-> My GitHub Stats
+> My GitHub Stats:
   <details><summary>:zap: My Yearly Contribution && Languages Stats</summary>
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
  <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
