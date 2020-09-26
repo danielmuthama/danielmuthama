@@ -22,7 +22,7 @@ Here is my progress:
 <details align="right">
   <summary>:zap: Github Top Languages</summary>
   
-  <img align="left" alt="Michael's Top used languages on Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRadu&layout=compact"/>
+  <img align="left" color="black" alt="Michael's Top used languages on Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRadu&layout=compact"/>
 
 </details>
 <br />
