@@ -14,7 +14,7 @@ Here is my progress:
 - 🤔 I’m looking for help with: ...Python Django
 - 💬 Ask me about: ...react and JavaScript
 >My GitHub Stats
-  <details><summary>:zap: Yearly CONTRIBUTION Stats && LANGUAGES Stats</summary>
+  <details><summary>:zap: MY Yearly Contributions && LANGUAGES Stats</summary>
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
  <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
 <br />
