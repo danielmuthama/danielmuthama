@@ -15,8 +15,8 @@ Here is my progress:
 - 💬 Ask me about: ...react and JavaScript
 
 
-  <img align="left" alt="Muthama's Github Stats" width="400px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
- <img align="" alt="Muthama's Top used languages on Github" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/>
+  <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
+ <img align="" alt="Muthama's Top used languages on Github" background-color="black" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/>
 
 <br />
 > How to reach me: ...<span> 
