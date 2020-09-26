@@ -61,6 +61,12 @@ Here is my progress:
 <img align="left" alt="Neo4j" width="26px" src="https://aws1.discourse-cdn.com/business4/uploads/neo4jcommunity/original/2X/e/e6629664c2c76f2e65a4f751e66ccbd9c0df84a7.svg" />
 <br />
 <br />
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
+
+</details>
 
 [gmail]: mailto:danielmuthama23@gmail.com
 [facebook]: https://www.facebook.com/dasomtechnologiesinc
