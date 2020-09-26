@@ -25,6 +25,7 @@ Here is my progress:
   <img align="left" alt="Michael's Top used languages on Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRadu&layout=compact"/>
 
 </details>
+<br />
 > How to reach me: ...<span> 
   
 [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
