@@ -12,7 +12,7 @@ Here is my progress:
 - 🌱 I’m currently learning: ...R language
 - 👯 I’m looking to collaborate on: ...Node js projects without using frameworks nor dependencies e.g.,hashing
 - 🤔 I’m looking for help with: ...Python Django
-- 💬 Ask me about: ...react and JavaScript
+- 💬 Ask me about: ...React and JavaScript
 
 > My GitHub Stats:
   <details><summary>:zap: My Yearly Contribution && Languages Stats</summary>
