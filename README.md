@@ -76,7 +76,7 @@ Here is my progress:
 <img align="left" alt="Network Development Group (NDG)-" width="38px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="PIRPLE" width="44px" src="https://s3.amazonaws.com/thinkific-import/116598/cYiInJ14QTexS1zdpeTV_logo5.png" />
 <img align="left" alt="Open EDG Python Institute" width="44px" src="https://openedg.org/wp-content/uploads/2018/06/OpenEDG_logo_300.png" />
-<img align="left" alt="Microsoft Azure" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvwIBsHf8_oAQkACOmxHCtX30CrPaCzmBWMQ&usqp=CAU" />
+<img align="left" alt="Microsoft Azure" width="60px" src="https://attivonetworks.com/wp-content/uploads/2020/02/MS-Azure_logo_horiz_c-gray_rgb.png" />
 
 [gmail]: mailto:danielmuthama23@gmail.com
 [facebook]: https://www.facebook.com/dasomtechnologiesinc
