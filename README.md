@@ -74,9 +74,9 @@ Here is my progress:
 
 <img align="left" alt="CISCO Networking Academy" width="22px" src="https://media-exp1.licdn.com/dms/image/C560BAQE9mv648k-SEQ/company-logo_200_200/0?e=1609372800&v=beta&t=fX1Jxn_0nZF_fdf7ygZSKAMrMmyc_WD7dKY0eJ0Y0z4" />
 <img align="left" alt="Network Development Group (NDG)-" width="22px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" /
-<img align="left" alt="Open EDG Python Institute" width="22px" src="https://edu.openedg.org/images/openedg_logo.png" />
+<img align="left" alt="Open EDG Python Institute" width="22px" src="https://pythoninstitute.org/wp-content/uploads/2018/03/Python_logo_272x71.png" />
 <img align="left" alt="PIRPLE" width="22px" src="https://s3.amazonaws.com/thinkific-import/116598/cYiInJ14QTexS1zdpeTV_logo5.png" />
-<img align="left" alt="Microsoft Azure" width="22px" src="https://docs.microsoft.com/en-us/media/logos/logo_azure-white.svg" />
+<img align="left" alt="Microsoft Azure" width="22px" src="https://img.icons8.com/color/2x/microsoft.png" />
 
 [gmail]: mailto:danielmuthama23@gmail.com
 [facebook]: https://www.facebook.com/dasomtechnologiesinc
