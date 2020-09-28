@@ -9,7 +9,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.
 Here is my progress:
 
 - 🔭 I’m currently working on: ...A website
-- 🌱 I’m currently learning: ...R language
+- 🌱 I’m currently learning: ...R language & Apache kafka
 - 👯 I’m looking to collaborate on: ...Node js projects without using frameworks nor dependencies e.g.,hashing
 - 🤔 I’m looking for help with: ...Python Django
 - 💬 Ask me about: ...React and JavaScript
