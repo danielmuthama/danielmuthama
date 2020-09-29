@@ -3,8 +3,8 @@
 Hello Buddies 😃👋🏻,
 My Name is Daniel Muthama, I’m a Full time Full Stack Developer
 and I have been in IT Profession for over 4+ Years. Most of my
-projects are built in JavaScript, Express, React, MATLAB, P5.js
-python, node.js and GraphQL. I am also looking for professionals
+projects are built in JavaScript, Express, React, MATLAB, P5.js,
+Python, Node.js and GraphQL. I am also looking for professionals
 whom I can learn, discuss and collaborate with in my upcoming projects.
 Here is my progress:
 
