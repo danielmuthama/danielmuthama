@@ -70,10 +70,9 @@ Here is my progress:
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="" alt="Neo4j" width="26px" src="https://aws1.discourse-cdn.com/business4/uploads/neo4jcommunity/original/2X/e/e6629664c2c76f2e65a4f751e66ccbd9c0df84a7.svg" />
 <br />
-
 <br />
-> Certified with:
 
+> Certified with:
 <img align="left" alt="CISCO Networking Academy" width="32px" src="https://media-exp1.licdn.com/dms/image/C560BAQE9mv648k-SEQ/company-logo_200_200/0?e=1609372800&v=beta&t=fX1Jxn_0nZF_fdf7ygZSKAMrMmyc_WD7dKY0eJ0Y0z4" />
 <img align="left" alt="Network Development Group (NDG)-" width="44px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="PIRPLE" width="48px" src="https://s3.amazonaws.com/thinkific-import/116598/cYiInJ14QTexS1zdpeTV_logo5.png" />
