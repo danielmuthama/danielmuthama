@@ -30,6 +30,7 @@ Here is my progress:
 [<img align="left" alt="Daniel Muthama discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
 [<img align="left" alt="Daniel Muthama linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
 <br/>
+
 > Languages & Frameworks:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -76,7 +77,7 @@ Here is my progress:
 <img align="left" alt="Network Development Group (NDG)-" width="38px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="PIRPLE" width="44px" src="https://s3.amazonaws.com/thinkific-import/116598/cYiInJ14QTexS1zdpeTV_logo5.png" />
 <img align="left" alt="Open EDG Python Institute" width="44px" src="https://openedg.org/wp-content/uploads/2018/06/OpenEDG_logo_300.png" />
-<img align="left" alt="Microsoft Azure" width="90px" src="https://attivonetworks.com/wp-content/uploads/2020/02/MS-Azure_logo_horiz_c-gray_rgb.png" />
+<img align="" alt="Microsoft Azure" width="90px" src="https://attivonetworks.com/wp-content/uploads/2020/02/MS-Azure_logo_horiz_c-gray_rgb.png" />
 
 [gmail]: mailto:danielmuthama23@gmail.com
 [facebook]: https://www.facebook.com/dasomtechnologiesinc
