@@ -13,6 +13,7 @@ Here is my progress:
     - 👯 I’m looking to collaborate on: ...Node js projects without using frameworks nor dependencies e.g.hashing
     - 🤔 I’m looking for help with: ...Python Django
     - 💬 Ask me about: ...React and JavaScript
+    - 😜 Fun Fact: I sleep with one eye Open
 
 > My GitHub Stats:
   <details><summary>:zap: My Yearly Contribution && Languages Stats</summary>
