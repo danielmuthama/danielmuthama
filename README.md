@@ -30,7 +30,7 @@ Here is my progress:
 [<img align="left" alt="Daniel Muthama discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
 [<img align="left" alt="Daniel Muthama linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
 <br/>
-> Languages, Frameworks and Tools Interested In:
+> Languages, Frameworks & Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
@@ -68,7 +68,6 @@ Here is my progress:
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Neo4j" width="26px" src="https://aws1.discourse-cdn.com/business4/uploads/neo4jcommunity/original/2X/e/e6629664c2c76f2e65a4f751e66ccbd9c0df84a7.svg" />
-<br />
 <br />
 
 > Worked and Certified with:
