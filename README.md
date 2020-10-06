@@ -1,11 +1,11 @@
 > Let's share new ideas:
 ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md">
     Hello Buddies 😃👋🏻,
-My Name is Daniel Muthama, I’m a Full time Full Stack Developer
+<p font-family: 'Bebas Neue'>My Name is Daniel Muthama, I’m a Full time Full Stack Developer
 and I have been in IT Profession for over 6+ Years. Most of my
 projects are built in JavaScript, Express, React, MATLAB, P5.js,
 Python, Node.js and GraphQL. I am also looking for professionals
-whom I can learn, discuss and collaborate with in my upcoming projects.
+whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 Here is my progress:
 
     - 🔭 I’m currently working on: ...A website
