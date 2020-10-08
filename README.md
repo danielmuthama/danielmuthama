@@ -48,7 +48,7 @@ Here is my progress:
 <img align="left" alt="Asp.net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" background="black"alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://techcrunch.com/wp-content/uploads/2015/01/mongodb.png?w=730&crop=1" />
+<img align="left" alt="MongoDB" width="30px" src="https://diginomica.com/sites/default/files/images/2017-06/mongodb.png" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" />
 <img align="" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
