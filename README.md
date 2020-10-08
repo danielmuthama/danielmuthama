@@ -8,11 +8,11 @@ Python, Node.js and GraphQL. I am also looking for professionals
 whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 Here is my progress:
 
-    - 🔭 I’m currently working on: ...A website
-    - 🌱 I’m currently learning: ...R language & Apache kafka
-    - 👯 I’m looking to collaborate on: ...Node js projects without using frameworks nor dependencies e.g.hashing
-    - 🤔 I’m looking for help with: ...Python Django
-    - 💬 Ask me about: ...React and JavaScript
+    - 🔭 I’m currently working on: A website
+    - 🌱 I’m currently learning: R language & Apache kafka
+    - 👯 I’m looking to collaborate on: Node.js
+    - 🤔 I’m looking for help with: Python Django
+    - 💬 Ask me about: React and JavaScript
     - 😜 Fun Fact: I sleep with one eye Open
 
 > My GitHub Stats:
@@ -39,7 +39,7 @@ Here is my progress:
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="P5.JS" width="26px" src="https://miro.medium.com/max/300/1*h9G7gjWQeQVwqkbhHVvOQg.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
