@@ -28,7 +28,7 @@ Here is my progress:
 [<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
 [<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
 [<img align="left" alt="Daniel Muthama discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
-[<img align="center" alt="Daniel Muthama linkedin" width="122px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
+[<img align="100px" alt="Daniel Muthama linkedin" width="122px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
 <br/>
 
 > Languages & Frameworks:
