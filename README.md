@@ -1,5 +1,5 @@
 > Let's share new ideas:
-### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md">
+### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> (https://github.com/danielmuthama)  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md">
     😃 Hello Buddies 👋🏻,
 <p font-family: 'verdana'>My Name is Daniel Muthama, I’m a Full time Full Stack Developer
 and I have been in IT Profession for over 6+ Years. Most of my
