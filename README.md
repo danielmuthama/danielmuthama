@@ -10,7 +10,7 @@ Here is my progress:
 
     - 🔭 I’m currently working on: A website
     - 🌱 I’m currently learning: R & Apache kafka
-    - 👯 I’m looking to collaborate on: Node.js
+    - 👯 I’m looking to collaborate on: Node.js(no depedencies)
     - 🤔 I’m looking for help with: Python Django
     - 💬 Ask me about: React and JavaScript
     - 😜 Fun Fact: I sleep with one eye Open
