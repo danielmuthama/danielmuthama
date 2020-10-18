@@ -1,10 +1,6 @@
 > Let's share new ideas:
-### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 🙌 <img align="" alt="github" width="36px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> [<img align="" alt="Country Rank" width="22px" src="" />][active_users] 🙌 
+### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama)  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 🙌 <img align="" alt="github" width="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> [<img align="" alt="Country Rank" width="22px" src="" />][active_users] 🙌 
 
-<details><summary>:zap: My Yearly Contribution Stats</summary>
-<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
- <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
- <br/>
     😃 Hello Buddies 👋🏻,
 <p font-family: 'verdana'>My Name is Daniel Muthama, I’m a Full time Full Stack Developer
 and I have been in IT Profession for over 6+ Years. Most of my
