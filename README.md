@@ -22,8 +22,8 @@ Here is my progress:
  <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
  <br/>
   <details><summary>:zap: My Stats</summary>
-<p align="center">
-<img width="500" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
+<p align="">
+<img width="300" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
 </p>
 <br>
 </details>
