@@ -24,19 +24,14 @@ Here is my progress:
   <details><summary>:zap: My Stats</summary>
 <p align="center">
 <img width="500" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
-  
-  <br>
-  <br>
-  
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats">
 </p>
 <br>
 </details>
  <br/>
   <details><summary>:zap: My Yearly Contribution Stats</summary>
-<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
- <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"></details>
  <br/>
+ 
 > How to reach me:
 
 [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
