@@ -22,8 +22,8 @@ Here is my progress:
  <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
  <br/>
  <details><summary>:zap: My Yearly Contribution Stats</summary>
-<img width="400" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
- <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"</details>
+<img width="350" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
+ <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"</details>
  <br/>
  
 > How to reach me:
