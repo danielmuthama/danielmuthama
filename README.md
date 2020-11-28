@@ -25,6 +25,7 @@ Here is my progress:
 <img width="300" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"></details>
  </p>
+ 
 > How to reach me:
 
 [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
