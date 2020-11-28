@@ -23,7 +23,7 @@ Here is my progress:
  <br/>
  <details><summary>:zap: My Yearly Contribution Stats</summary>
 <img width="300" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
- <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"</details>
+ <img width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"</details>
  <br/>
  
 > How to reach me:
