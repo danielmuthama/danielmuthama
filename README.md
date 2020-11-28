@@ -17,13 +17,14 @@ Here is my progress:
     - 😜 Fun Fact: I sleep with one eye Open
 
 > My GitHub Stats:
+<p>
   <details><summary>:zap: My Annual Contribution Stats</summary>
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
  <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
  <details><summary>📈 My Overall GitHub Stats</summary>
 <img width="300" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"></details>
- 
+ </p>
 > How to reach me:
 
 [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
