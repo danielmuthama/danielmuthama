@@ -21,9 +21,17 @@ Here is my progress:
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
  <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
  <br/>
-  <details><summary>:zap: My Yearly Contribution Stats</summary>
-<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
- <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
+  <details><summary>:zap: My Stats</summary>
+<p align="center">
+<img width="500" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
+  
+  <br>
+  <br>
+  
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats">
+</p>
+<br>
+</details>
  <br/>
   <details><summary>:zap: My Yearly Contribution Stats</summary>
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
@@ -41,10 +49,9 @@ Here is my progress:
 
 > Languages & Frameworks:
 
-<p>
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-</p>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="P5.JS" width="26px" src="https://miro.medium.com/max/300/1*h9G7gjWQeQVwqkbhHVvOQg.png" />
