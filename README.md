@@ -80,7 +80,7 @@ Here is my progress:
 
 > Certified with:
 
-<img align="left" alt="CISCO Networking Academy" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fboldbytesng.com%2Ftraining3%2F&psig=AOvVaw0l0t0ZwUywDRIiLHYILj-r&ust=1619185948786000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCx-Or_kfACFQAAAAAdAAAAABAD" />
+<img align="left" alt="CISCO Networking Academy" width="26px" src="https://boldbytesng.com/wp-content/uploads/2017/05/logo-cisco-ccna.png" />
 <img align="left" alt="Network Development Group (NDG)-" width="40px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="PIRPLE" width="40px" src="https://s3.amazonaws.com/thinkific-import/116598/cYiInJ14QTexS1zdpeTV_logo5.png" />
 <img align="left" alt="Open EDG Python Institute" width="40px" src="https://openedg.org/wp-content/uploads/2018/06/OpenEDG_logo_300.png" />
