@@ -19,7 +19,7 @@ Here is my progress:
 > My GitHub Stats:
 <p>
   <details><summary>:zap: My Annual Contribution Stats</summary>
-<img align="left" alt="My GitHub Stats" height= "200px" width="300px" src="https://github-readme-stats.vercel.app/api?username=danielmuthama&theme=dracula&show_icons=true&hide_title=true" />
+<img align="left" alt="My GitHub Stats" height= "200px" width="300px" src="https://github-readme-stats.vercel.app/api?username=danielmuthama&show_icons=true&hide_title=true" />
  <img align="" alt="Muthama's Top used languages on Github" height= "200px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact&hide_title=true"/></details>
  <details><summary>📈 My Overall GitHub Stats</summary>
 <img width="300" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
