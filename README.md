@@ -1,6 +1,9 @@
 > Let's share new ideas:
+<p align="center">
 ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 
+    <br>
 🙌 [<img align="" alt="My" width="20px" src="" />][my_github] [<img align="" alt="my_github" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbevhfvEllKIJNEAOgm7sW84c5dqsnwUPpw&usqp=CAU" />][my_github] [<img align="" alt="Ranking" width="20px" src="" />][active_users] **#2** 🙌 
+</p>
 
     😃 Hello Buddies 👋🏻,
 <p font-family: 'verdana'>My Name is Daniel Muthama, I’m a Full time Full Stack Developer
@@ -8,7 +11,7 @@ and I have been in IT Profession for over 6+ Years. Most of my
 projects are built in JavaScript, Express, React, MATLAB, P5.js,
 Python, Node.js and GraphQL. I am also looking for professionals
 whom I can learn, discuss and collaborate with in my upcoming projects.</p>
-Here is my progress:
+> Here is my progress:
 
     - 🔭 I’m currently working on: A website
     - 🌱 I’m currently learning: R & Apache kafka
@@ -20,6 +23,7 @@ Here is my progress:
 > My GitHub Stats:
 <p>
   <details><summary>:zap: My Annual Contribution Stats</summary>
+      
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama&count_private=true&hide_border=true&show_icons=true&hide_title=true&layout=compact&theme=radical" alt="Daniel's GitHub stats" />
  <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&count_private=true&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=radical"/></details>
  <details><summary>📈 My Overall GitHub Stats</summary>
