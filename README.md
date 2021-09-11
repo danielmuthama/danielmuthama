@@ -19,8 +19,8 @@ Here is my progress:
 > My GitHub Stats:
 <p>
   <details><summary>:zap: My Annual Contribution Stats</summary>
-<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="Daniel's GitHub stats" />
- <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&count_private=true&hide_border=true&show_icons=true&theme=radical"/></details>
+<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=radical" alt="Daniel's GitHub stats" />
+ <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&count_private=true&hide_border=true&hide_title=true&show_icons=true&theme=radical"/></details>
  <details><summary>📈 My Overall GitHub Stats</summary>
 <img width="300" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"></details>
