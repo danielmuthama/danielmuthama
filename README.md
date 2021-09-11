@@ -14,6 +14,7 @@ Python, Node.js and GraphQL. I am also looking for professionals
 whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 
 > My best languages
+ 
  <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
@@ -37,6 +38,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
    </p>
+   
 > Here is my progress:
 
     - 🔭 I’m currently working on: A website
