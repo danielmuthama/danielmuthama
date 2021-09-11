@@ -19,8 +19,8 @@ Here is my progress:
 > My GitHub Stats:
 <p>
   <details><summary>:zap: My Annual Contribution Stats</summary>
-<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielmuthama&show_icons=true&hide_border=true" />
- <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layout=compact"/></details>
+<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.vercel.app/api?username=danielmuthama&hide=contribs&theme=dracula&show_icons=true&hide_title=true" />
+ <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&layohttps://github-readme-stats.vercel.app/api?username=NaiaraBorges&hide=contribs&theme=dracula&show_icons=true&hide_title=trueut=compact"/></details>
  <details><summary>📈 My Overall GitHub Stats</summary>
 <img width="300" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"></details>
