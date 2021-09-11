@@ -81,7 +81,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Moongose" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="" alt="Neo4j" width="26px" src="https://vectorlogoseek.com/wp-content/uploads/2018/12/neo4j-vector-logo.png" />
+<img align="" alt="Neo4j" width="30px" src="https://vectorlogoseek.com/wp-content/uploads/2018/12/neo4j-vector-logo.png" />
 <br />
 
 
