@@ -62,7 +62,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" background="black"alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://diginomica.com/sites/default/files/images/2017-06/mongodb.png" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" />
 <img align="" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -81,7 +81,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Moongose" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="" alt="Neo4j" width="26px" src="https://aws1.discourse-cdn.com/business4/uploads/neo4jcommunity/original/2X/e/e6629664c2c76f2e65a4f751e66ccbd9c0df84a7.svg" />
+<img align="" alt="Neo4j" width="26px" src="https://vectorlogoseek.com/wp-content/uploads/2018/12/neo4j-vector-logo.png" />
 <br />
 
 
