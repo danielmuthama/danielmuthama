@@ -2,7 +2,7 @@
 
 ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 
 
- <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbevhfvEllKIJNEAOgm7sW84c5dqsnwUPpw&usqp=CAU" />] [<a href="https://commits.top/kenya.html" target="_blank" rel="noreferrer">Ranking</a>] **#2** 🙌
+   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbevhfvEllKIJNEAOgm7sW84c5dqsnwUPpw&usqp=CAU" />] [<a href="https://commits.top/kenya.html" target="_blank" rel="noreferrer">Ranking</a>] **#2** 🙌
 
     😃 Hello Buddies 👋🏻,
 <p font-family: 'verdana'>My Name is Daniel Muthama, I’m a Full time Full Stack Developer
