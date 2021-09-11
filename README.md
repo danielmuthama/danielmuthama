@@ -1,5 +1,6 @@
 > Let's share new ideas:
-### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> <img align="" alt="wall" width="15px" src="https://raw.githubusercontent.com/danielmuthama/danielmuthama/master/my%20pictures/c.png" /> <img align="" alt="wall" width="15px" src="https://raw.githubusercontent.com/danielmuthama/danielmuthama/master/my%20pictures/o.png" /> <img align="" alt="wall" width="15px" src="https://raw.githubusercontent.com/danielmuthama/danielmuthama/master/my%20pictures/d.png" /> <img align="" alt="wall" width="15px" src="https://raw.githubusercontent.com/danielmuthama/danielmuthama/master/my%20pictures/e.png" /> 🙌 [<img align="" alt="My" width="20px" src="" />][my_github] [<img align="" alt="my_github" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbevhfvEllKIJNEAOgm7sW84c5dqsnwUPpw&usqp=CAU" />][my_github] [<img align="" alt="Ranking" width="20px" src="" />][active_users] **#2** 🙌 
+### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) 
+🙌 [<img align="" alt="My" width="20px" src="" />][my_github] [<img align="" alt="my_github" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbevhfvEllKIJNEAOgm7sW84c5dqsnwUPpw&usqp=CAU" />][my_github] [<img align="" alt="Ranking" width="20px" src="" />][active_users] **#2** 🙌 
 
     😃 Hello Buddies 👋🏻,
 <p font-family: 'verdana'>My Name is Daniel Muthama, I’m a Full time Full Stack Developer
@@ -19,8 +20,8 @@ Here is my progress:
 > My GitHub Stats:
 <p>
   <details><summary>:zap: My Annual Contribution Stats</summary>
-<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=radical" alt="Daniel's GitHub stats" />
- <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&count_private=true&hide_border=true&hide_title=true&show_icons=true&theme=radical"/></details>
+<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama&count_private=true&hide_border=true&show_icons=true&hide_title=true&layout=compact&theme=radical" alt="Daniel's GitHub stats" />
+ <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&count_private=true&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=radical"/></details>
  <details><summary>📈 My Overall GitHub Stats</summary>
 <img width="300" src="https://metrics.lecoq.io/danielmuthama" alt="Github Metrics">
  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"></details>
