@@ -1,7 +1,7 @@
 > Let's share new ideas:
 
 ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 
-<p align = ""
+<p align = "center">
    <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbevhfvEllKIJNEAOgm7sW84c5dqsnwUPpw&usqp=CAU" />] [<a href="https://commits.top/kenya.html" target="_blank" rel="noreferrer">Ranking</a>] **#2** 🙌
 </p>
 
@@ -13,6 +13,30 @@ projects are built in JavaScript, Express, React, MATLAB, P5.js,
 Python, Node.js and GraphQL. I am also looking for professionals
 whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 
+> My best languages
+ <p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
+  <img src="https://img.shields.io/badge/Code-AdonisJS-informational?style=flat&logo=AdonisJS&color=20004F">
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26">
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB">
+  <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=0F3D2D">
+  <br>
+  <img src="https://img.shields.io/badge/Tool-Vim-informational?style=flat&logo=Vim&color=3D883B">
+  <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791">
+  <img src="https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=NPM&color=CB0000">
+  <img src="https://img.shields.io/badge/Tool-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB">
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032">
+  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717">
+  <img src="https://img.shields.io/badge/Tool-Insomnia-informational?style=flat&logo=Insomnia&color=3E028B">
+  <br>
+  <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6">
+  <img src="https://img.shields.io/badge/Style-Styled--Components-informational?style=flat&logo=styled-components&color=CC6699">
+  <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
+  <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
+   </p>
 > Here is my progress:
 
     - 🔭 I’m currently working on: A website
