@@ -5,12 +5,7 @@
 <p align = ""
    <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbevhfvEllKIJNEAOgm7sW84c5dqsnwUPpw&usqp=CAU" />] [<a href="https://commits.top/kenya.html" target="_blank" rel="noreferrer">Ranking</a>] **#2** 🙌
 </p>
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
-	<a href = "https://commits.top/kenya.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
-</p>
+
 
     😃 Hello Buddies 👋🏻,
     
