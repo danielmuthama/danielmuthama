@@ -133,6 +133,3 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 [linkedin]: https://www.linkedin.com/in/daniel-muthama-577b211a5/
 [my_github]: https://github.com/danielmuthama
 [active_users]: https://commits.top/kenya.html
-
-<img align ="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
-<br>
