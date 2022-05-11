@@ -78,7 +78,6 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 
 > Languages & Frameworks:
 
-,,,
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -116,7 +115,6 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="" alt="Neo4j" width="30px" src="https://vectorlogoseek.com/wp-content/uploads/2018/12/neo4j-vector-logo.png" />
 <br />
-,,,
 
 > Certified with:
 
