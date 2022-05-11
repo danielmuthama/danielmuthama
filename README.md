@@ -134,5 +134,3 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 [my_github]: https://github.com/danielmuthama
 [active_users]: https://commits.top/kenya.html
 
-![snake gif](https://github.com/danielmuthama/danielmuthama/blob/output/github-contribution-grid-snake.svg)
-
