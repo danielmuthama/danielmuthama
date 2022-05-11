@@ -133,3 +133,6 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 [linkedin]: https://www.linkedin.com/in/daniel-muthama-577b211a5/
 [my_github]: https://github.com/danielmuthama
 [active_users]: https://commits.top/kenya.html
+
+![snake gif](https://github.com/danielmuthama/danielmuthama/blob/output/github-contribution-grid-snake.svg)
+
