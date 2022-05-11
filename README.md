@@ -6,7 +6,7 @@
    <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/git.png" />] [<a href="https://commits.top/kenya.html" target="_blank" rel="noreferrer">My Ranking</a>] **#2** 🙌
 </p>
 <p align = ""
-   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/dti.jpeg" />] [<a href="https://danielmuthama.github.io/my_portfolio/" target="_blank" rel="noreferrer">My Profile</a>] **#2** 🙌
+   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/dti.jpeg" />] [<a href="https://danielmuthama.github.io/my_portfolio/" target="_blank" rel="noreferrer">My Profile</a>] 🙌
 </p>
 
 
