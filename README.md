@@ -48,7 +48,8 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
    </p>
    
 > Here is my progress:
-   **Project Count in QUEUE:** 2
+
+    **PROJECT QUEUE:** 2
    
     - 🔭 I’m currently working on: A website
     - 🌱 I’m currently learning: R & Apache kafka
