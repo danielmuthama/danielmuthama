@@ -91,12 +91,12 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Django" width="26px" src="https://www.landinfotech.com/wp-content/uploads/2020/08/django-logo-negative.png" />
-<img align="" alt="Express" width="32px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Express_Clothing_Logo.SVG/1200px-Express_Clothing_Logo.SVG.png" />
-<img align="left" alt="Asp.net" width="26px" src="https://cdn.dribbble.com/users/42044/screenshots/3005807/media/06e7cf57e4e2d35e993ec109d7f7bd6e.png" />
+<img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" />
+<img align="" alt="Express" width="32px" src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" />
+<img align="left" alt="Asp.net" width="26px" src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" background="black"alt="Flask" width="26px" src="https://i.postimg.cc/xqr8Nmtn/flask.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://www.howtogeek.com/wp-content/uploads/csit/2021/07/f5932bc2.jpg" />
+<img align="left" background="black"alt="Flask" width="26px" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://logowik.com/content/uploads/images/mongodb1880.jpg" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" />
 <img align="" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -116,7 +116,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Moongose" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="" alt="Neo4j" width="30px" src="https://vectorlogoseek.com/wp-content/uploads/2018/12/neo4j-vector-logo.png" />
+<img align="" alt="Neo4j" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" />
 <br />
 
 > Certified with:
@@ -125,7 +125,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Network Development Group (NDG)-" width="40px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="PIRPLE" width="40px" src="https://s3.amazonaws.com/thinkific-import/116598/cYiInJ14QTexS1zdpeTV_logo5.png" />
 <img align="left" alt="Open EDG Python Institute" width="40px" src="https://openedg.org/wp-content/uploads/2018/06/OpenEDG_logo_300.png" />
-<img align="" alt="Microsoft Azure" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCg1vSyapm8F_9Sz-8Mc4jXcK3A5D3V6C9_Q&usqp=CAU" />
+<img align="" alt="Microsoft Azure" width="50px" src="https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo.png" />
 
 
 [gmail]: mailto:danielmuthama23@gmail.com
