@@ -94,7 +94,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" />
 <img align="" alt="Express" width="38px" src"https://i.pinimg.com/originals/c2/a1/eb/c2a1ebdd00e8512aa55a121af41eb738.png" />
 <img align="left" alt="Asp.net" width="26px" src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" />
-<img align="left" alt="Python" width="28px" src"https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Express_Clothing_Logo.SVG/1200px-Express_Clothing_Logo.SVG.png" />
+<img align="left" alt="Python" width="28px" src"https://i.pinimg.com/736x/8f/23/98/8f2398dcd19c6a1776f6b55c83073c67.jpg" />
 <img align="left" background="black"alt="Flask" width="26px" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://logowik.com/content/uploads/images/mongodb1880.jpg" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" />
