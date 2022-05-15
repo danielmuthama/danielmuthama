@@ -49,7 +49,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
    
 > Here is my progress:
 
-    **PROJECT QUEUE:** 2
+   **PROJECT IN QUEUE:** 2
    
     - 🔭 I’m currently working on: A website
     - 🌱 I’m currently learning: R & Apache kafka
