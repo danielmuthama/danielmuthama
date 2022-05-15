@@ -1,4 +1,4 @@
-                                                😊'''HAPPY CODING'''😊
+      😊'''HAPPY CODING'''😊
                                                                    
 > Let's share new ideas:
 
@@ -94,6 +94,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" />
 <img align="" alt="Express" width="26px" src="my pictures/download.png" />
 <img align="left" alt="Asp.net" width="26px" src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" />
+<img align="left" alt="flask" width="26px" src="my pictures/images.png" />
 <img align="left" alt="Python" width="26px" src="my pictures/download (1).png" />
 <img align="left" alt="mongo" width="26px" src="my pictures/Mongo.png" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" />
