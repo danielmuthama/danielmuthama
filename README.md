@@ -138,4 +138,4 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 [my_github]: https://github.com/danielmuthama
 [active_users]: https://commits.top/kenya.html
 
-                                           🔥'''ALWAYS STAY MOTIVATED. DON'T GIVEUP'''🔥
+                                           🔥'''DON'T GIVEUP'''🔥
