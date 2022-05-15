@@ -95,7 +95,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="" alt="Express" width="26px" src="my pictures/download.png" />
 <img align="left" alt="Asp.net" width="26px" src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" />
 <img align="left" alt="Python" width="26px" src="my pictures/download (1).png" />
-<img align="left" background="black"alt="mongo" width="26px" src="my pictures/mongo.png" />
+<img align="left" alt="mongo" width="26px" src="my pictures/mongo.png" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" />
 <img align="" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
