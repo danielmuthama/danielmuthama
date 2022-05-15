@@ -92,9 +92,9 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" />
-<img align="" alt="Express" width="26px" src"=my pictures/download.png" />
+<img align="" alt="Express" width="26px" src="my pictures/download.png" />
 <img align="left" alt="Asp.net" width="26px" src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" />
-<img align="left" alt="Python" width="26px" src"=my pictures/download (1).png" />
+<img align="left" alt="Python" width="26px" src="my pictures/download (1).png" />
 <img align="left" background="black"alt="Flask" width="26px" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://logowik.com/content/uploads/images/mongodb1880.jpg" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" />
@@ -138,4 +138,4 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 [my_github]: https://github.com/danielmuthama
 [active_users]: https://commits.top/kenya.html
 
-   🔥'''DON'T GIVEUP'''🔥
+     🔥'''DON'T GIVEUP'''🔥
