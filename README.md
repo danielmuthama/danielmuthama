@@ -91,12 +91,12 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="" alt="Express" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Asp.net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
+<img align="left" alt="Django" width="26px" src="https://www.landinfotech.com/wp-content/uploads/2020/08/django-logo-negative.png" />
+<img align="" alt="Express" width="32px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Express_Clothing_Logo.SVG/1200px-Express_Clothing_Logo.SVG.png" />
+<img align="left" alt="Asp.net" width="26px" src="https://cdn.dribbble.com/users/42044/screenshots/3005807/media/06e7cf57e4e2d35e993ec109d7f7bd6e.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" background="black"alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://diginomica.com/sites/default/files/images/2017-06/mongodb.png" />
+<img align="left" background="black"alt="Flask" width="26px" src="https://i.postimg.cc/xqr8Nmtn/flask.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://www.howtogeek.com/wp-content/uploads/csit/2021/07/f5932bc2.jpg" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" />
 <img align="" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
