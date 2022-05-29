@@ -1,4 +1,4 @@
-      😊'''HAPPY CODING'''😊
+      😊''' **HAPPY CODING** '''😊
                                                                    
 > Let's share new ideas:
 
@@ -12,7 +12,7 @@
 </p>
 
 
-    😃 Hello Buddies 👋🏻, 👉                   <'''${AI}'''/>    🚶‍♂️                   **Keep Learning from the Best**
+    😃 Hello Buddies 👋🏻, 👉                   <''' **${AI}** '''/>    🚶‍♂️                   **Keep Learning from the Best**
     
 <p font-family: 'verdana'>
 My Name is Daniel Muthama, I’m a Full time Full Stack Developer
