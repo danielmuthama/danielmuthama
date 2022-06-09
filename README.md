@@ -138,4 +138,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 [my_github]: https://github.com/danielmuthama
 [active_users]: https://commits.top/kenya.html
 
+
+> <a href="https://github.com/danielmuthama/github-readme-activity-graph"><img alt="DAN CONTRIBUTION' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danielmuthama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br>
+
       🔥'''NEVER SAY NEVER'''🔥
