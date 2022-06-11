@@ -126,7 +126,6 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="PIRPLE" width="40px" src="https://s3.amazonaws.com/thinkific-import/116598/cYiInJ14QTexS1zdpeTV_logo5.png" />
 <img align="left" alt="Open EDG Python Institute" width="40px" src="https://openedg.org/wp-content/uploads/2018/06/OpenEDG_logo_300.png" />
 <img align="" alt="Microsoft Azure" width="50px" src="https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo.png" />
-<img align="" alt="Microsoft Azure" width="50px" src="https://skyline.github.com/danielmuthama/2021" />
 
 
 
