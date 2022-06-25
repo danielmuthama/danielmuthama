@@ -119,9 +119,6 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="" alt="Neo4j" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" />
 <br />
 
-<div>
-  <img style="width:85%" src="https://wakatime.com/share/@danielmuthama/904d979d-659b-4ed2-8ddd-56e9e690d84e.svg" />
-</div>
 
 > Certified with:
 
