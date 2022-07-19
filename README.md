@@ -127,8 +127,10 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Open EDG Python Institute" width="40px" src="https://openedg.org/wp-content/uploads/2018/06/OpenEDG_logo_300.png" />
 <img align="" alt="Microsoft Azure" width="50px" src="https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo.png" />
 <img align="left" alt="MORINGA" width="40px" src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />
-<img align="left" alt="ALX" width="40px" src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png" />
+<img align="left" alt="ALX" width="40px" src="https://static6.tgstat.ru/channels/_0/92/926d46830ed20086ac4ea5b7d6af3552.jpg" />
+<img align="left" alt="UDACITY" width="40px" src="https://cdn-images-1.medium.com/max/1200/1*kS6zBDOS5kw0R-SschjLhg.png" />
 <img align="left" alt="AWS" width="40px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" />
+
 
 
 
