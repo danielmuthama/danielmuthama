@@ -10,6 +10,9 @@
 <p align = ""
    <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/dti.jpeg" />] [<a href="https://danielmuthama.github.io/my_portfolio/" target="_blank" rel="noreferrer">Prof. Portfolio</a>] **💻** 🙌
 </p>
+<p align = ""
+   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdsLXbi6NMmYfIhMo7_N2zfNqJYL_W4u0jjhRZ8nT7auIjdUS0Qh9zXtc9m0b6c909eWo&usqp=CAU" />] [<a href="https://www.linkedin.com/in/daniel-muthama-577b211a5/" target="_blank" rel="noreferrer">Prof. Portfolio</a>] **💻** 🙌
+</p>
 
 
     😃 Hello Buddies 👋🏻, 👉              <${AI}/>    🚶‍♂️               **Focus and Keep Learning from the Best**
