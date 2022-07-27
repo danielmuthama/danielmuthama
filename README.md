@@ -15,7 +15,7 @@
 </p>
 
 
-    😃 Hello Buddies 👋🏻, 👉             <b style='color:red'> <${AI}/> </b>    🚶‍♂️               **Focus and Keep Building**
+    😃 Hello Buddies 👋🏻, 👉             <${AI}/>    🚶‍♂️               **Focus and Keep Building**
     
 <p font-family: 'verdana'>
 My Name is Daniel Muthama, I’m a Full time Full Stack Developer
