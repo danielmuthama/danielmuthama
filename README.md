@@ -1,7 +1,9 @@
       😊''' **HAPPY CODING** '''😊
                                                                    
 > Let's share new ideas:
+
 ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 
+
 <p align = ""
    <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/git.png" />] [<a href="https://commits.top/kenya.html" target="_blank" rel="noreferrer">Ranking</a>] **#?** 🙌
 </p>
@@ -14,13 +16,14 @@
 
 
     😃 Hello Buddies 👋🏻, 👉             <${AI}/>    🚶‍♂️               **Focus and Keep Building**
-
+    
 <p font-family: 'verdana'>
 My Name is Daniel Muthama, I’m a Full time Full Stack Developer
 and I have been in IT Profession for over 6+ Years. Most of my
 projects are built in JavaScript, Express, React, MATLAB, P5.js,
 Python, Node.js and GraphQL. I am also looking for professionals
 whom I can learn, discuss and collaborate with in my upcoming projects.</p>
+
 > My best languages
  
  <p align="center">
@@ -48,6 +51,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
    </p>
    
 > Here is my progress:
+
    **PROJECT IN QUEUE:** 2
    
     - 🔭 I’m currently working on: A website
@@ -56,6 +60,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
     - 🤔 I’m looking for help with: Python Django
     - 💬 Ask me about: React and JavaScript
     - 😜 Fun Fact: I sleep with one eye Open
+
 > My GitHub Stats:
 <p>
   <details><summary>:zap: My Annual Contribution Stats</summary>
@@ -67,8 +72,8 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"></details>
  </p>
  
- 
 > How to reach me:
+
 [<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
 [<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://img.icons8.com/doodle/2x/youtube.png" />][youtube]
 [<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
@@ -78,6 +83,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <br/>
 
 > Languages & Frameworks:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -115,7 +121,10 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="" alt="Neo4j" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" />
 <br />
+
+
 > Certified with:
+
 <img align="left" alt="CISCO Networking Academy" width="26px" src="https://boldbytesng.com/wp-content/uploads/2017/05/logo-cisco-ccna.png" />
 <img align="left" alt="Network Development Group (NDG)-" width="40px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="Open EDG Python Institute" width="40px" src="https://openedg.org/wp-content/uploads/2018/06/OpenEDG_logo_300.png" />
@@ -124,7 +133,14 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <img align="left" alt="ALX" width="30px" src="https://static6.tgstat.ru/channels/_0/92/926d46830ed20086ac4ea5b7d6af3552.jpg" />
 <img align="left" alt="UDACITY" width="34px" src="https://cdn-images-1.medium.com/max/1200/1*kS6zBDOS5kw0R-SschjLhg.png" />
 <img align="left" alt="AWS" width="34px" src="https://thenfapost.com/wp-content/uploads/2020/06/AWS.png" />
+
+
+
+
+
+
 <a href="https://github.com/danielmuthama/github-readme-activity-graph"><img alt="DAN CONTRIBUTION' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danielmuthama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br>
+
 [gmail]: mailto:danielmuthama23@gmail.com
 [facebook]: https://www.facebook.com/dasomtechnologiesinc
 [discord]: https://discord.gg/jNTPtz
@@ -134,4 +150,6 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 [linkedin]: https://www.linkedin.com/in/daniel-muthama-577b211a5/
 [my_github]: https://github.com/danielmuthama
 [active_users]: https://commits.top/kenya.html
+
+
       🔥'''NEVER SAY NEVER'''🔥
