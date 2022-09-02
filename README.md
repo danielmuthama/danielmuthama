@@ -151,7 +151,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 [my_github]: https://github.com/danielmuthama
 [active_users]: https://commits.top/kenya.html
 
-![Metrics](https://metrics.lecoq.io/danielmuthama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/Lyonsmasawa?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
 
       🔥'''NEVER SAY NEVER'''🔥
