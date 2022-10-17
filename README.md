@@ -1,4 +1,4 @@
-      😊''' **HAPPY CODING** '''😊
+      😊''' **𝐇𝐀𝐏𝐏𝐘 𝐂𝐎𝐃𝐈𝐍𝐆** '''😊
                                                                    
 > Let's share new ideas:
 
@@ -152,4 +152,4 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 [active_users]: https://commits.top/kenya.html
 
 
-      🔥'''NEVER SAY NEVER'''🔥
+      🔥'''𝐍𝐄𝐕𝐄𝐑 𝐒𝐀𝐘 𝐍𝐄𝐕𝐄𝐑'''🔥
