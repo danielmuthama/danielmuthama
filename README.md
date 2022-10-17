@@ -15,7 +15,7 @@
 </p>
 
 
-    😃 Hello Buddies 👋🏻, 👉             <${AI}/>    🚶‍♂️               **Focus and Keep Building**
+    😃 𝐇𝐞𝐥𝐥𝐨 𝐁𝐮𝐝𝐝𝐢𝐞𝐬 👋🏻, 👉             <${𝐀𝐈}/>    🚶‍♂️               **𝐅𝐨𝐜𝐮𝐬 𝐚𝐧𝐝 𝐊𝐞𝐞𝐩 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠**
     
 <p font-family: 'verdana'>
 My Name is Daniel Muthama, I’m a Full time Full Stack Developer
