@@ -139,7 +139,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 
 
 
-<a href="https://github.com/danielmuthama/github-readme-activity-graph"><img alt="DAN CONTRIBUTION' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danielmuthama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br>
+<a href="https://github.com/danielmuthama/github-readme-activity-graph"><img alt="DAN CONTRIBUTION' Activity Graph." src="https://activity-graph.herokuapp.com/graph?username=danielmuthama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br>
 
 [gmail]: mailto:danielmuthama23@gmail.com
 [facebook]: https://www.facebook.com/dasomtechnologiesinc
