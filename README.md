@@ -139,17 +139,6 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 
 
 
-<a href="https://github.com/danielmuthama/github-readme-activity-graph"><img alt="DAN CONTRIBUTION' Activity Graph." src="https://activity-graph.herokuapp.com/graph?username=danielmuthama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br>
-
-
-   <a href="https://github.com/danielmuthama">
-   <img src="https://avatars.githubusercontent.com/u/28483876?s=460&v=4" width="100px;" alt=""/>
-   <br />
-   <sub><b>Milind Modi</b></sub>
-   </a>
-   <br />
-   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph/commits?author=MilindModi" title="Documentation">📖</a>
-
 [gmail]: mailto:danielmuthama23@gmail.com
 [facebook]: https://www.facebook.com/dasomtechnologiesinc
 [discord]: https://discord.gg/jNTPtz
