@@ -125,7 +125,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 
 > Certified with:
 
-<img align="left" alt="CISCO Networking Academy" width="26px" src="https://img.helpnetsecurity.com/wp-content/uploads/2019/06/09094049/cisco1.jpg" />
+<img align="left" alt="CISCO Networking Academy" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2L5Z634Md0fcxuBweoi1WNvbIwC1Pf4tZP4FJud2RrnjQFOz35eX3QA2TMR6dAm810g&usqp=CAU" />
 <img align="left" alt="Network Development Group (NDG)-" width="40px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="Open EDG Python Institute" width="40px" src="https://openedg.org/wp-content/uploads/2018/06/OpenEDG_logo_300.png" />
 <img align="" alt="Microsoft Azure" width="50px" src="https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo.png" />
