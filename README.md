@@ -153,7 +153,7 @@ whom I can learn, discuss and collaborate with in my upcoming projects.</p>
 <br />
 <br />
 
-
+[![Daniel Muthama's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danielmuthama)](https://github.com/danielmuthama/github-readme-activity-graph)
 
 
       🔥'''𝐍𝐄𝐕𝐄𝐑 𝐒𝐀𝐘 𝐍𝐄𝐕𝐄𝐑'''🔥
